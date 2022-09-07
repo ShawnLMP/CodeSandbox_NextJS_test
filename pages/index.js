@@ -15,7 +15,7 @@ export default function IndexPage(props) {
 
   return (
     <div>
-      Hello World. {test}
+      Hello World. {test} push to main test
       <Link href="/about">
         <a>About</a>
       </Link>

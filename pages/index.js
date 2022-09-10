@@ -3,7 +3,7 @@ import Link from "next/link";
 export async function getServerSideProps() {
   return {
     props: {
-      test: 1143
+      test: 1245
     }
   };
 }
